@@ -16,5 +16,6 @@ Used for my own benefit
 ## Things to do
 
 1. Create a local cluster deployment
+    * kind create cluster --name zabka --config config.yaml
 2. Create a Jenkins deployment
 3. Be able to connect to that Jenkins environment
