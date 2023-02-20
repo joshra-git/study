@@ -12,3 +12,9 @@ Used for my own benefit
 - Create a pipeline that will use my own container to deploy within itself.
 - Jenkins Libraries and how to configure them
 - Create a terraform deployment for provisioning things for local use (ECR Permissions maybe)
+
+## Things to do
+
+1. Create a local cluster deployment
+2. Create a Jenkins deployment
+3. Be able to connect to that Jenkins environment
