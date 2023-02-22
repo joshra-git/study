@@ -9,12 +9,10 @@ spec:
   selector:
     matchLabels:
       app: service-a
-      access: service-b
   template:
     metadata:
       labels:
         app: service-a
-        access: service-b
     spec:
       containers:
       - name: service-a
